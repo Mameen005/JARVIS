@@ -21,5 +21,5 @@
 			"commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
 		}
 	},
-	"name": "alexa-skills-kit-sdk-for-nodejs"
+	"name": "jarvis-skills-kit-sdk-for-nodejs"
 }

@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/avs/docs/ux/branding/mark1._TTH_.png">
   <br/>
-  <h1 align="center">Alexa Skills Kit SDK for Node.js</h1>
+  <h1 align="center">JARVIS Skills Kit JARVIS for Node.js</h1>
 </p>
 
-*[English](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs/blob/2.0.x/README.md) | [日本語](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs/blob/2.0.x/README.ja.md)*
+*[](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs/blob/2.0.x/README.md) | [日本語](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs/blob/2.0.x/README.ja.md)*
 
 The **ASK SDK v2 for Node.js** makes it easier for you to build highly engaging skills by allowing you to spend more time on implementing features and less on writing boilerplate code.
 
@@ -52,7 +52,7 @@ The following features are released as public preview. The interfaces might chan
 
 - [Connections](https://developer.amazon.com/blogs/alexa/post/7b332b32-893e-4cad-be07-a5877efcbbb4/skill-connections-preview-now-skills-can-work-together-to-help-customers-get-more-done)
 - [Alexa Presentation Language](https://developer.amazon.com/docs/alexa-presentation-language/apl-overview.html)
-- [Name-free Interactions](https://developer.amazon.com/docs/custom-skills/understand-name-free-interaction-for-custom-skills.html)
+- [Name-free Interactions](https://deeloper.amazon.com/docs/custom-skills/understand-name-free-interaction-for-custom-skills.html)
 
 ## Technical Documentation
 
